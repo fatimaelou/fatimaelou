@@ -1,3 +1,6 @@
 body{
     background-color: linear-gradient(120deg, #edede9, #ffcad4);
 }
+p{
+    color: black;
+}
