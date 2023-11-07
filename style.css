@@ -98,7 +98,6 @@ a{
 }
 
 #background-video {
-  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.è())) ;
   width: calc(100vw - 18px);
   height: 80vh;
   object-fit: cover;
@@ -251,44 +250,7 @@ padding: 30px 0 0 0 ;
   padding: 20px;
 }
 
-.mb-cards p{
-  color: #000;
-  text-align: center;
-  font-size: 15px;
-}
-.mb-cards h2{
-  font-size: 30px;
-  color: #000;
-  text-align: center;
-}
-.mb-cards ul{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  gap: 10px;
-  padding: 50px;
-}
-.mb-cards img{
-  width: 100%;
-  height: 150px;
-}
-.mb-cards ul li{
-  list-style-type: none;
-  box-shadow: 0 0 10px 2px rgba(0,0,0,0.1);
-  border-radius: 35px;
-  background-color: #fff;
-}
-.mb-cards h3, p{
-  text-align: center;
-  color: #000;
-}
-.mb-cards a{
-  display: block;
-  text-align: center;
-  color: #bb9f82;
-  padding: 0 0 20px 0;
-}
+
 .think{
   display: flex;
   justify-content: center;
